@@ -1,9 +1,1894 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="PBBQV-rmceMgmNqRfQ_i">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="entity_id" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="attribute_set_id" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-2">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="90" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="type_id" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-3">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="160" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="average_rating" column_type="double" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-4">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="230" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="created_at" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-5">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="300" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="demo_available" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-6">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="370" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="dentalkart_custom_fee" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-7">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="440" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="description" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-8">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="510" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="expiry" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-9">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="580" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="gift_message_available" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-10">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="650" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="has_options" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-11">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="720" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="image_label" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-12">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="790" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="is_cod" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-13">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="860" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="links_exist" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-14">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="930" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="links_purchased_separately" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-15">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1000" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="links_title" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-16">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1070" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="manufacturer" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-17">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1140" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="manufacturer_value" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-18">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1210" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="mpmembership_duration_options" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-19">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1280" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="mpmembership_price_fixed" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-20">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1350" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="msrp" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-21">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1420" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="msrp_display_actual_price_type" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-22">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1490" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="name" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-23">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1560" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="news_from_date" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-24">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1630" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="news_to_date" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-25">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1700" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="pd_expiry_date" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-26">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1770" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="price" column_type="double" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-27">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1840" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="price_type" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-28">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1910" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="price_view" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-29">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1980" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="rating_count" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-30">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2050" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="required_options" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-31">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2120" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="return_period" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-32">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2190" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="reward_point_product" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-33">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2260" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="short_description" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-34">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2330" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="sku" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-35">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2400" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="sku_type" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-36">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2470" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="small_image" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-37">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2540" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="small_image_label" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-38">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2610" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="special_from_date" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-39">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2680" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="special_price" column_type="double" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-40">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2750" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="special_to_date" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-41">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2820" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="swatch_image" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-42">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2890" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="tax_class_id" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-43">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2960" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="thumbnail" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-44">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3030" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="thumbnail_label" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-45">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3100" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="ts_dimensions_height" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-46">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3170" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="ts_dimensions_length" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-47">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3240" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="ts_dimensions_width" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-48">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3310" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="updated_at" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-49">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3380" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="url_key" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-50">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3450" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="url_path" column_type="varchar(256)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-51">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3520" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="visibility" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-52">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3590" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="warranty" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-53">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3660" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="weight" column_type="double" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-54">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3730" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="Product_catalog_Apr" column_name="weight_type" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-55">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3800" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-56">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3870" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity" column_name="user" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-57">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="3940" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity" column_name="activity_type" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-58">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4010" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity" column_name="user_meta_info" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-59">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4080" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-60">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4150" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity" column_name="entity" column_type="enum(&#39;product&#39;,&#39;category&#39;)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-61">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4220" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-62">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4290" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="entity_id" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-63">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4360" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="old_value" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-64">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4430" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="new_value" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-65">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4500" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="revert" column_type="tinyint" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-66">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4570" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="revert_log_id" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-67">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4640" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-68">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4710" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-69">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4780" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="activity_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-70">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4850" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="activity_log" column_name="activity_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="activity" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-71">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4920" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-72">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="4990" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="name" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-73">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5060" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="status" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-74">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5130" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="meta_title" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-75">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5200" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="meta_description" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-76">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5270" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="banner_web" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-77">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5340" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="banner_app" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-78">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5410" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="description" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-79">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5480" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="url_key" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-80">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5550" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="meta_keyword" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-81">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5620" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="image" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-82">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5690" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="path" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-83">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5760" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="parent_id" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-84">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5830" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="web_link" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-85">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5900" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="banner_title" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-86">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="5970" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-87">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6040" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-88">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6110" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="position" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-89">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6180" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category" column_name="include_in_menu" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-90">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6250" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category_product" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-91">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6320" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category_product" column_name="position" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-92">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6390" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category_product" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-93">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6460" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category_product" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-94">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6530" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category_product" column_name="category_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_category" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-95">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6600" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_category_product" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-96">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6670" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_event_outbox" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-97">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6740" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_event_outbox" column_name="entity_id" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-98">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6810" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_event_outbox" column_name="entity_type" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-99">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6880" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_event_outbox" column_name="is_published" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-100">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="6950" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_event_outbox" column_name="process_count" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-101">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7020" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_event_outbox" column_name="received_by_es" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-102">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7090" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_event_outbox" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-103">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7160" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_event_outbox" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-104">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7230" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_event_outbox" column_name="activity_logs_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="activity_log" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-105">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7300" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_export_queue" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-106">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7370" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_export_queue" column_name="filename" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-107">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7440" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_export_queue" column_name="report_url" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-108">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7510" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_export_queue" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-109">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7580" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_export_queue" column_name="status" column_type="enum(&#39;pending&#39;,&#39;complete&#39;)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-110">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7650" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_export_queue" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-111">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7720" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_import_queue" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-112">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7790" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_import_queue" column_name="filename" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-113">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7860" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_import_queue" column_name="status" column_type="enum(&#39;pending&#39;,&#39;complete&#39;)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-114">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="7930" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_import_queue" column_name="report_url" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-115">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8000" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_import_queue" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-116">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8070" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_import_queue" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-117">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8140" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-118">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8210" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product" column_name="sku" column_type="varchar(255)" column_key="UNI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-119">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8280" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product" column_name="status" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-120">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8350" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product" column_name="type_id" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-121">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8420" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-122">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8490" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-123">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8560" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product" column_name="deleted_at" column_type="datetime(6)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-124">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8630" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-125">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8700" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="sku" column_type="varchar(255)" column_key="UNI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-126">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8770" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="status" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-127">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8840" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="type_id" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-128">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8910" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-129">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="8980" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-130">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9050" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="name" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-131">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9120" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="description" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-132">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9190" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="short_description" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-133">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9260" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="price" column_type="decimal(10,2)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-134">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9330" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="special_price" column_type="decimal(10,2)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-135">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9400" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="weight" column_type="decimal(10,2)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-136">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9470" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="manufacturer" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-137">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9540" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="image" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-138">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9610" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="small_image" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-139">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9680" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="thumbnail" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-140">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9750" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="url_key" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-141">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9820" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="visibility" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-142">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9890" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="country_of_manufacture" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-143">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="9960" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="msrp" column_type="decimal(10,2)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-144">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10030" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="tax_class_id" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-145">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10100" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="key_specifications" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-146">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10170" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="features" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-147">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10240" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="htext" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-148">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10310" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="packaging" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-149">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10380" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="hvideo" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-150">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10450" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="hsn_code" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-151">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10520" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="is_cod" column_type="tinyint" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-152">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10590" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="warranty" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-153">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10660" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="product_faq" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-154">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10730" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="reward_point_product" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-155">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10800" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="international_active" column_type="tinyint" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-156">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10870" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="average_rating" column_type="decimal(10,2)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-157">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="10940" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="rating_count" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-158">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11010" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="return_period" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-159">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11080" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="dispatch_days" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-160">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11150" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="dentalkart_custom_fee" column_type="decimal(10,2)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-161">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11220" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="demo_available" column_type="tinyint" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-162">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11290" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="product_id" column_type="int" column_key="UNI" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-163">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11360" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="product_id" column_type="int" column_key="UNI" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-164">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11430" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="special_from_date" column_type="datetime" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-165">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11500" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="special_to_date" column_type="datetime" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-166">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11570" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="pd_expiry_date" column_type="datetime" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-167">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11640" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="gtin" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-168">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11710" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="news_from_date" column_type="datetime" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-169">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11780" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="news_to_date" column_type="datetime" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-170">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11850" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="swatch_image" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-171">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11920" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="meta_keyword" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-172">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="11990" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="meta_title" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-173">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12060" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="meta_description" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-174">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12130" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_flat" column_name="other_info" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-175">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12200" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_relation" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-176">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12270" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_relation" column_name="relation_type" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-177">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12340" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_relation" column_name="position" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-178">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12410" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_relation" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-179">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12480" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_relation" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-180">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12550" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_relation" column_name="parent_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-181">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12620" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_product_relation" column_name="child_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-182">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12690" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_url_rewrite" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-183">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12760" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_url_rewrite" column_name="entity_id" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-184">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12830" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_url_rewrite" column_name="entity_type" column_type="enum(&#39;product&#39;,&#39;category&#39;)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-185">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12900" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_url_rewrite" column_name="redirect_type" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-186">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="12970" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_url_rewrite" column_name="request_path" column_type="varchar(255)" column_key="UNI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-187">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13040" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_url_rewrite" column_name="target_path" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-188">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13110" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_url_rewrite" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-189">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13180" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="catalog_url_rewrite" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-190">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13250" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="ctlg_catalog_product" column_name="id" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-191">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13320" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="ctlg_catalog_product" column_name="sku" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-192">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13390" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="ctlg_catalog_product" column_name="status" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-193">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13460" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="ctlg_catalog_product" column_name="type_id" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-194">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13530" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="ctlg_catalog_product" column_name="created_at" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-195">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13600" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="ctlg_catalog_product" column_name="updated_at" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-196">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13670" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="ctlg_catalog_product" column_name="deleted_at" column_type="varchar(50)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-197">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13740" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-198">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13810" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="status" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-199">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13880" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="description" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-200">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="13950" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="thumbnail" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-201">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14020" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="url" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-202">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14090" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-203">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14160" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-204">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14230" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="deleted_at" column_type="datetime(6)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-205">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14300" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="active_device" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-206">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14370" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments" column_name="customer_group" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-207">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14440" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments_products_catalog_product" column_name="productAttachmentsId" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-208">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14510" width="280" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments_products_catalog_product" column_name="productAttachmentsId" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="product_attachments" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-209">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14580" width="280" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments_products_catalog_product" column_name="catalogProductId" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-210">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14650" width="280" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attachments_products_catalog_product" column_name="catalogProductId" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-211">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14720" width="280" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-212">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14790" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-213">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14860" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="code" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-214">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="14930" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="label" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-215">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15000" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="is_unique" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-216">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15070" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="is_required" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-217">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15140" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="is_sortable" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-218">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15210" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="is_filterable" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-219">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15280" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="is_editable" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-220">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15350" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="is_deletable" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-221">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15420" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="default_value" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-222">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15490" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="backend_type" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-223">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15560" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="frontend_input" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-224">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15630" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-225">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15700" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-226">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15770" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute" column_name="apply_to" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-227">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15840" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-228">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15910" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group" column_name="group_name" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-229">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="15980" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group" column_name="group_code" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-230">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16050" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group" column_name="sort_order" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-231">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16120" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-232">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16190" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group_relation" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-233">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16260" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group_relation" column_name="sort_order" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-234">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16330" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group_relation" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-235">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16400" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group_relation" column_name="group_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="product_attribute_group" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-236">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16470" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group_relation" column_name="attribute_id" column_type="int" column_key="UNI" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-237">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16540" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_group_relation" column_name="attribute_id" column_type="int" column_key="UNI" is_nullable="YES" referenced_table="product_attribute" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-238">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16610" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_option" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-239">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16680" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_option" column_name="value" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-240">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16750" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_option" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-241">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16820" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_option" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-242">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16890" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_attribute_option" column_name="attribute_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="product_attribute" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-243">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="16960" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_bool_attribute" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-244">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17030" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_bool_attribute" column_name="value" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-245">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17100" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_bool_attribute" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-246">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17170" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_bool_attribute" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-247">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17240" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_bool_attribute" column_name="attribute_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="product_attribute" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-248">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17310" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_bool_attribute" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-249">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17380" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_date_attribute" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-250">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17450" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_date_attribute" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-251">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17520" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_date_attribute" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-252">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17590" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_date_attribute" column_name="attribute_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="product_attribute" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-253">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17660" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_date_attribute" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-254">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17730" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_date_attribute" column_name="value" column_type="datetime" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-255">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17800" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_decimal_attribute" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-256">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17870" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_decimal_attribute" column_name="value" column_type="decimal(10,2)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-257">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="17940" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_decimal_attribute" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-258">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18010" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_decimal_attribute" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-259">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18080" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_decimal_attribute" column_name="attribute_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="product_attribute" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-260">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18150" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_decimal_attribute" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-261">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18220" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_feedback" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-262">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18290" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_feedback" column_name="price" column_type="float" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-263">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18360" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_feedback" column_name="quality" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-264">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18430" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_feedback" column_name="other_feedback" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-265">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18500" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_feedback" column_name="user" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-266">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18570" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_feedback" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-267">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18640" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_feedback" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-268">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18710" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_integer_attribute" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-269">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18780" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_integer_attribute" column_name="value" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-270">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18850" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_integer_attribute" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-271">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18920" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_integer_attribute" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-272">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="18990" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_integer_attribute" column_name="attribute_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="product_attribute" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-273">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19060" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_integer_attribute" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-274">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19130" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-275">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19200" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="is_in_stock" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-276">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19270" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="qty" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-277">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19340" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="min_sale_qty" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-278">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19410" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="max_sale_qty" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-279">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19480" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="backorders" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-280">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19550" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-281">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19620" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-282">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19690" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="product_id" column_type="int" column_key="UNI" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-283">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19760" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_inventory_attribute" column_name="product_id" column_type="int" column_key="UNI" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-284">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19830" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-285">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19900" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary" column_name="value" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-286">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="19970" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary" column_name="is_disabled" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-287">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20040" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary" column_name="position" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-288">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20110" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-289">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20180" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-290">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20250" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-291">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20320" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary" column_name="image_tags" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-292">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20390" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-293">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20460" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="value" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-294">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20530" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="url" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-295">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20600" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="title" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-296">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20670" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="description" column_type="text" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-297">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20740" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-298">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20810" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-299">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20880" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-300">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="20950" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="is_disabled" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-301">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21020" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_media_gallary_video" column_name="position" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-302">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21090" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-303">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21160" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="customer_id" column_type="int" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-304">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21230" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="product_id" column_type="int" column_key="MUL" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-305">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21300" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="admin_email" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-306">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21370" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="status" column_type="tinyint" column_key="MUL" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-307">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21440" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="question_text" column_type="text" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-308">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21510" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="answer_text" column_type="text" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-309">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21580" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-310">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21650" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-311">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21720" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_question_answer" column_name="customer_email" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-312">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21790" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_stock_alert" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-313">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21860" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_stock_alert" column_name="customer_name" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-314">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="21930" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_stock_alert" column_name="notification_status" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-315">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22000" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_stock_alert" column_name="customer_email" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-316">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22070" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_stock_alert" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-317">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22140" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_stock_alert" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-318">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22210" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_stock_alert" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-319">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22280" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_suggestion" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-320">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22350" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_suggestion" column_name="searched_key" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-321">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22420" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_suggestion" column_name="product_name" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-322">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22490" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_suggestion" column_name="brand" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-323">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22560" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_suggestion" column_name="user" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-324">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22630" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_suggestion" column_name="comment" column_type="text" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-325">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22700" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_suggestion" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-326">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22770" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-327">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22840" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="status" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-328">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22910" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="name" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-329">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="22980" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="unique_code" column_type="varchar(255)" column_key="UNI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-330">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23050" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="value" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-331">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23120" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="tag_type" column_type="enum(&#39;image&#39;,&#39;text&#39;)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-332">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23190" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="position" column_type="enum(&#39;top_left&#39;,&#39;bottom_right&#39;)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-333">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23260" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="description" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-334">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23330" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-335">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23400" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-336">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23470" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags" column_name="deleted_at" column_type="datetime(6)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-337">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23540" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags_products_catalog_product" column_name="productTagsId" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-338">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23610" width="240" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags_products_catalog_product" column_name="productTagsId" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="product_tags" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-339">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23680" width="240" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags_products_catalog_product" column_name="catalogProductId" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-340">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23750" width="240" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tags_products_catalog_product" column_name="catalogProductId" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-341">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23820" width="240" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_text_attribute" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-342">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23890" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_text_attribute" column_name="value" column_type="text" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-343">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="23960" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_text_attribute" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-344">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24030" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_text_attribute" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-345">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24100" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_text_attribute" column_name="attribute_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="product_attribute" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-346">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24170" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_text_attribute" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-347">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24240" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tier_price" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-348">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24310" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tier_price" column_name="value" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-349">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24380" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tier_price" column_name="quantity" column_type="int" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-350">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24450" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tier_price" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-351">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24520" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tier_price" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-352">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24590" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tier_price" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-353">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24660" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tier_price" column_name="customer_group" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-354">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24730" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_tier_price" column_name="price_type" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-355">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24800" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_varchar_attribute" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-356">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24870" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_varchar_attribute" column_name="value" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-357">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="24940" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_varchar_attribute" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-358">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25010" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_varchar_attribute" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-359">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25080" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_varchar_attribute" column_name="attribute_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="product_attribute" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-360">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25150" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="product_varchar_attribute" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-361">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25220" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="qna_likes_dislikes" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-362">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25290" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="qna_likes_dislikes" column_name="customer_id" column_type="int" column_key="MUL" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-363">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25360" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="qna_likes_dislikes" column_name="question_id" column_type="int" column_key="MUL" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-364">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25430" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="qna_likes_dislikes" column_name="question_id" column_type="int" column_key="MUL" is_nullable="NO" referenced_table="product_question_answer" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-365">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25500" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="qna_likes_dislikes" column_name="is_like" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-366">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25570" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="qna_likes_dislikes" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-367">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25640" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="qna_likes_dislikes" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-368">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25710" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="sku_update_record" column_name="id" column_type="int" column_key="PRI" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-369">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25780" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="sku_update_record" column_name="old_sku" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-370">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25850" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="sku_update_record" column_name="status" column_type="tinyint" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-371">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25920" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="sku_update_record" column_name="new_sku" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-372">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="25990" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="sku_update_record" column_name="error" column_type="varchar(255)" column_key="" is_nullable="YES" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-373">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="26060" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="sku_update_record" column_name="created_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-374">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="26130" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="sku_update_record" column_name="updated_at" column_type="datetime(6)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-375">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="26200" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="sku_update_record" column_name="product_id" column_type="int" column_key="MUL" is_nullable="YES" referenced_table="catalog_product" referenced_column="id" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-376">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="26270" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%table_name%" table_name="sku_update_record" column_name="modified_by" column_type="varchar(255)" column_key="" is_nullable="NO" referenced_table="" referenced_column="" placeholders="1" id="L4Z5wPpXntJ20ZflUT2o-377">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="26340" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
